@@ -1,6 +1,21 @@
 accounts = {
-    "1001": {"pin": "1234", "balance": 5000},
-    "1002": {"pin": "5678", "balance": 10000}
+    "1001": {
+        "name": "Vasu",
+        "pin": "1234",
+        "balance": 5000
+    },
+
+    "1002": {
+        "name": "Rahul",
+        "pin": "5678",
+        "balance": 10000
+    },
+
+    "1003": {
+        "name": "karthik",
+        "pin": "4321",
+        "balance": 7500
+    }
 }
 
 

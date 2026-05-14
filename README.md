@@ -27,11 +27,11 @@ A simple Python-based ATM Management System developed using functions, input val
 
 ## Sample Accounts
 
-| Account Number | PIN  | Balance |
-|----------------|------|----------|
-| 1001           | 1234 | 5000     |
-| 1002           | 5678 | 10000    |
-
+| Account Number | Account Holder | PIN  | Balance |
+|----------------|----------------|------|----------|
+| 1001 | Vasudha | 1234 | 5000 |
+| 1002 | Rahul | 5678 | 10000 |
+| 1003 | karthik | 4321 | 7500 |
 ## How to Run
 
 1. Open terminal
@@ -39,5 +39,5 @@ A simple Python-based ATM Management System developed using functions, input val
 3. Run:
 
 ```bash
-python atm.py
+python atm_systems.py
 ```
